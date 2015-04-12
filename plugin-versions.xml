@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<wolf-plugins>
+	<wolf-plugin>
+	    <id>disable_filters</id>
+        <version>0.1.0</version>
+        <status>stable</status>
+    </wolf-plugin>
+    <wolf-plugin>
+        <id>layoutswitcher</id>
+        <version>0.1.0</version>
+        <status>stable</status>
+	</wolf-plugin>
+	<wolf-plugin>
+		<id>sceditor</id>
+        <version>1.2.9</version>
+        <status>stable</status>
+	</wolf-plugin>
+	<wolf-plugin>
+		<id>shortcut</id>
+        <version>0.1.0</version>
+        <status>stable</status>
+	</wolf-plugin>
+</wolf-plugins>
