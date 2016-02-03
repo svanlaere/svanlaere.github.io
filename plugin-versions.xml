@@ -5,6 +5,11 @@
         <version>0.1.0</version>
         <status>stable</status>
     </wolf-plugin>
+	<wolf-plugin>
+	    <id>easysnippet</id>
+        <version>0.1.0</version>
+        <status>stable</status>
+    </wolf-plugin>
     <wolf-plugin>
         <id>layoutswitcher</id>
         <version>0.1.0</version>
