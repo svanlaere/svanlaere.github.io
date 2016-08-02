@@ -1,28 +1,58 @@
-<?xml version="1.0" encoding="windows-1252"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <wolf-plugins>
-	<wolf-plugin>
-	    <id>disable_filters</id>
-        <version>0.1.0</version>
-        <status>stable</status>
-    </wolf-plugin>
-	<wolf-plugin>
-	    <id>easysnippet</id>
+    <wolf-plugin>
+        <id>adduserdata</id>
         <version>0.1.0</version>
         <status>stable</status>
     </wolf-plugin>
     <wolf-plugin>
+        <id>customlogin</id>
+        <version>0.1.0</version>
+        <status>stable</status>
+    </wolf-plugin>	
+    <wolf-plugin>
+        <id>disable_filters</id>
+        <version>0.1.0</version>
+        <status>stable</status>
+    </wolf-plugin>
+    <wolf-plugin>
+        <id>easysnippet</id>
+        <version>0.2.1</version>
+        <status>stable</status>
+    </wolf-plugin>
+    <wolf-plugin>
+        <id>exhibition</id>
+        <version>0.1.0</version>
+        <status>stable</status>
+    </wolf-plugin>		
+    <wolf-plugin>
         <id>layoutswitcher</id>
         <version>0.1.0</version>
         <status>stable</status>
-	</wolf-plugin>
-	<wolf-plugin>
-		<id>sceditor</id>
-        <version>1.2.9</version>
-        <status>stable</status>
-	</wolf-plugin>
-	<wolf-plugin>
-		<id>shortcut</id>
+    </wolf-plugin>
+    <wolf-plugin>
+        <id>libcollection</id>
         <version>0.1.0</version>
         <status>stable</status>
-	</wolf-plugin>
+    </wolf-plugin>	
+    <wolf-plugin>
+        <id>news</id>
+        <version>0.0.1</version>
+        <status>development</status>
+    </wolf-plugin>		
+    <wolf-plugin>
+        <id>pagedata</id>
+        <version>0.1.0</version>
+        <status>development</status>
+    </wolf-plugin>
+    <wolf-plugin>
+        <id>sceditor</id>
+        <version>1.2.9</version>
+        <status>stable</status>
+    </wolf-plugin>
+    <wolf-plugin>
+        <id>shortcut</id>
+        <version>0.1.0</version>
+        <status>stable</status>
+    </wolf-plugin>
 </wolf-plugins>
